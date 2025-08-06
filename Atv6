@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 6</title>
+</head>
+<body>
+    <h4>Paulo</h4>
+    <h1> Bandeiras Nacionais</h1>
+
+  <h2> América do Sul</h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Bandeira_do_Brasil">Bandeira do Brasil/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Bandeira_do_Brasil"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png></a>
+    
+  <h3><a href="https://pt.wikipedia.org/wiki/Argentina">Bandeira da Argentina/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Argentina"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png></a>
+
+  
+  <h3><a href="https://pt.wikipedia.org/wiki/Chile">Bandeira do Chile/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Chile"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/250px-Flag_of_Chile.svg.png></a>
+    <br>
+
+
+    <h2> Europa </h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Alemanha">Bandeira da Alemanha/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Alemanha"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png></a> <br>
+
+  <h3><a href="https://pt.wikipedia.org/wiki/Fran%C3%A7a">Bandeira da França /<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Fran%C3%A7a"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png></a>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia">Bandeira da Australia /<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/250px-Flag_of_Australia_%28converted%29.svg.png></a>
+
+
+
+
+    <h2> Asia</h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/China">Bandeira da China/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/China"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/250px-Flag_of_the_People%27s_Republic_of_China.svg.png></a> <br>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Indon%C3%A9sia">Bandeira da Indonesia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Indon%C3%A9sia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/250px-Flag_of_Indonesia.svg.png></a> <br>
+
+    <h3><a href="https://pt.wikipedia.org/wiki/Tail%C3%A2ndia">Bandeira da Tailandia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Tail%C3%A2ndia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/250px-Flag_of_Thailand.svg.png></a> <br>
+
+
+
+
+     <h2> Africa</h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Egito">Bandeira do Egito/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Egito"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/250px-Flag_of_Egypt.svg.png></a> <br>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Arg%C3%A9lia">Bandeira da Libia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Arg%C3%A9lia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png></a> <br>
+
+
+       <h3><a href="https://pt.wikipedia.org/wiki/Marrocos">Bandeira do MArrocos/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Marrocos"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png></a> <br>
+
+
+
+
+     <h2> Oceania </h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Kiribati">Bandeira do Kiribati/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Kiribati"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/250px-Flag_of_Kiribati.svg.png></a> <br>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Bandeira_de_Nauru">Bandeira da Nauru/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Bandeira_de_Nauru"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/330px-Flag_of_Nauru.svg.png></a> <br>
+
+
+       <h3><a href="hhttps://pt.wikipedia.org/wiki/Bandeira_da_Nova_Zel%C3%A2ndia">Bandeira da Nova Zelândia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Bandeira_da_Nova_Zel%C3%A2ndia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/330px-Flag_of_New_Zealand.svg.png></a> <br>
+
+
+</body>
+</html>
