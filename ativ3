@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 3</title>
+</head>
+<body>
+  <p>&#9995;&#128540;&#129306;A semântica é o estudo do significado nos mais diversos níveis do discurso <br>
+     Estudando como a estrutura de sons, sílabas, palavras e enunciados impacta em seu significado e em sua compreensão <br>
+     É por meio da semântica que se desenvolvem conceitos como o de palavras sinônimas, antônimas ou parônimas, de conotação e denotação <br>
+      de ambiguidade e polissemia, entre outros.&#128173; <br>
+</p>  
+<p> &#128516; Em HTML, semântica refere-se ao uso de tags HTML com significado específico que descrevem o conteúdo da página&#129299; <br>
+    ao invés de simplesmente definir sua aparência. No HTML5, a semântica é importante porque torna o código mais compreensível para navegadores <br>
+     mecanismos de busca e pessoas que usam tecnologias assistivas, melhorando a acessibilidade e a organização do conteúdo&#128077; <br> 
+     </p>
+
+</body>
+</html>
