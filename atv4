@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 4</title>
+</head>
+<body>
+    <h1>Preservação da Natureza</h1>
+    <h2>Importãncia da Água</h2>
+    <h3>Aquecimento Global</h3>
+    <h4>Fontes de Energia Renovável</h4>
+    <h5>Reciclagem e Reutilização</h5>
+    <h6>Pequenas Ações, Grande Mundanças</h6>
+
+    <p>Cuidar do meio ambiente é essecial para garantiir um futuro saudável <br>
+    Para as próximas gerações.</p>
+
+    <p> Adoção de práticas sustentáveis, como o uso  de Energia limpa e a redução  <br>
+        do desperdicio, pode fazer grande diferença <br>
+    </p>
+
+       Preserva hoje para viver melhor Amanhã.
+
+       <br>
+
+       O futuro depende das escolhas que fazemos agora.
+       
+</body>
+</html> 
