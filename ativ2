@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista – Exercício 2</title>
+</head>
+<body>
+    <h1>Minha experiência no curso</h1>
+    <h2>Paulo</h2>
+    <p> Minha experiência nesse curso foi bom no começo, achei bem legal e facil mas depoi ficou mais dificil. <br>
+        Mais agora vou tentar aprender mais, vou ficar mais atento nas aulas e nas expricaçoes. 
+    
+
+    <h2>Luz</h2>   
+     <p> Minha experiência no curso ta indo muito bem, tenho um pouco de dificuldade em aprender muitas coisas. <br>
+        É muito legal conhecer e aprender novas coisas, o curso para mim é muito desafiafor mas isso e bom S.
+          
+</body>
+</html>
+
