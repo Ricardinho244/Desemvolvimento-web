@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ChatGPt</title>
+</head>
+<body>
+  <h1><i>Pesquisa</i></h1>
+
+
+  <input type="text" id="campo" placeholder="Digite: Nuvem, SaaS, PaaS, IaaS, Infra ou Virtualização">
+  <button onclick="pesquisar()">Pesquisar</button>
+
+  <hr>
+
+  <div id="resultado"></div>
+
+  <script>
+    function pesquisar() {
+      let texto = document.getElementById("campo").value
+      let resultado = document.getElementById("resultado");
+
+      if (texto === "Nuvem") {
+        resultado.innerHTML = "<h2>Computação na Nuvem</h2><p>Uso da internet para acessar serviços como servidores e armazenamento.</p><p><b>Exemplo:</b> Google Drive, AWS, Azure  <p><b>Empresas:</b> Amazon AWS, Microsoft Azure, Google Cloud./p>"
+ 
+      }
+      else if (texto === "infra") {
+        resultado.innerHTML = "<h2>Infraestrutura de TI</h2><p>Conjunto de servidores, redes e softwares que mantêm sistemas funcionando.</p><p><b>Exemplo:</b> Redes e servidores em empresas.<p><b>Empresas:</b> Cisco, Dell, HP</p>";
+      }
+      else if (texto === " saas?") {
+        resultado.innerHTML = "<h2>SaaS</h2><p>Softwares usados pela internet sem instalar no computador.</p><p><b>Exemplo:</b> Gmail, Office 365.<p><b>Empresas:</b> Google Docs, Office 365</p>";
+      }
+      else if (texto === "paas") {
+        resultado.innerHTML = "<h2>PaaS</h2><p>Plataforma pronta para programadores criarem e publicarem sistemas.<p><b>Exemplo:</b> Hospedar um site sem precisar montar servidor.<p><b>Empresas:</b> Heroku, Google App Engine.</p>";
+      }
+      else if (texto === "iaas") {
+        resultado.innerHTML = "<h2>IaaS</h2><p>Servidores e redes oferecidos pela internet.</p><p><b>Exemplo:</b> AWS EC2, Azure VMs.<p><b>Empresas:</b> AWS EC2, Azure VMs.</p>";
+      }
+      else if (texto === "virtualização") {
+        resultado.innerHTML = "<h2>Virtualização</h2><p>Criar várias máquinas virtuais dentro de um computador físico.</p><p><b>Exemplo:</b> VMware, VirtualBox.<p><b>Empresas:</b> VMware, VirtualBox.</p>";
+      }
+      else {
+        resultado.innerHTML = "<p style='color:red'>Tema não encontrado. Digite: Nuvem, Infra, SaaS, PaaS, IaaS ou Virtualização.</p>";
+      }
+    }
+  </script>
+</body>
+</html>
