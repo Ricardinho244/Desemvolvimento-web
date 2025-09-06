@@ -1,0 +1,1409 @@
+v<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Lista – Exercício 1</title>
+</head>
+<body>
+ <h2>Luz</h2>   
+<p> Eu gostaria de conhecer a França, gosto muito da sua cultura e suas paisagem.<br> 
+ Tambem gostaria de conhecer a Torre Eiffel porque é um ponto turistico muito bonito. <br> 
+ Para mim seria um privilégio conhecer um país tão bonito como a frnça é conhecer um pouco mais <br>
+ da sua cultura, gostaria de aprender, conhecer novas coisas, tambem gostaria de aprender a sua lingua <br>
+gostaria de aprender a falar frances gostaria de estudar lá <br>
+Quero estudar Turismo e conhecer as cidades e outras coisas <br>
+Acho que seria muito legal estudar turismo na frnaça <br>
+Seria mais facil para mim porque é um ponto turistico. <br>
+ Tambem ajudaria com minha carreira como fotografa profissional.</p> 
+
+<h2>Paulo</h2>
+ <p>O Japão é um país que sempre quis conhecer.<br>
+ Eu gostaria de conhecer sua cultura, e aprender mais sobre a sua história.<br>
+ Gosto muito da tecnologia japonesa é um grande atrativo para mim, com sua forte indústria de inovação.<br>
+ Eu acredito que trabalhar ou estudar no Japão seria uma experiência incrível. <br>
+ Então isso seria os motivos de eu ir para o Japão.<br>
+ Só uma coisa que eu não acho legal no Japão é algumas comidas de lá.<br>
+ Mais tirando algumas comidas de lá, eu acho as outras coisas muito legais.<br> 
+ Espero um dia ter uma chance de ir lá conhecer esse pais.<br>  
+</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista – Exercício 2</title>
+</head>
+<body>
+    <h1>Minha experiência no curso</h1>
+    <h2>Paulo</h2>
+    <p> Minha experiência nesse curso foi bom no começo, achei bem legal e facil mas depoi ficou mais dificil. <br>
+        Mais agora vou tentar aprender mais, vou ficar mais atento nas aulas e nas expricaçoes. 
+    
+
+    <h2>Luz</h2>   
+     <p> Minha experiência no curso ta indo muito bem, tenho um pouco de dificuldade em aprender muitas coisas. <br>
+        É muito legal conhecer e aprender novas coisas, o curso para mim é muito desafiafor mas isso e bom S.
+          
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 3</title>
+</head>
+<body>
+  <p>&#9995;&#128540;&#129306;A semântica é o estudo do significado nos mais diversos níveis do discurso <br>
+     Estudando como a estrutura de sons, sílabas, palavras e enunciados impacta em seu significado e em sua compreensão <br>
+     É por meio da semântica que se desenvolvem conceitos como o de palavras sinônimas, antônimas ou parônimas, de conotação e denotação <br>
+      de ambiguidade e polissemia, entre outros.&#128173; <br>
+</p>  
+<p> &#128516; Em HTML, semântica refere-se ao uso de tags HTML com significado específico que descrevem o conteúdo da página&#129299; <br>
+    ao invés de simplesmente definir sua aparência. No HTML5, a semântica é importante porque torna o código mais compreensível para navegadores <br>
+     mecanismos de busca e pessoas que usam tecnologias assistivas, melhorando a acessibilidade e a organização do conteúdo&#128077; <br> 
+     </p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 4</title>
+</head>
+<body>
+    <h1>Preservação da Natureza</h1>
+    <h2>Importãncia da Água</h2>
+    <h3>Aquecimento Global</h3>
+    <h4>Fontes de Energia Renovável</h4>
+    <h5>Reciclagem e Reutilização</h5>
+    <h6>Pequenas Ações, Grande Mundanças</h6>
+
+    <p>Cuidar do meio ambiente é essecial para garantiir um futuro saudável <br>
+    Para as próximas gerações.</p>
+
+    <p> Adoção de práticas sustentáveis, como o uso  de Energia limpa e a redução  <br>
+        do desperdicio, pode fazer grande diferença <br>
+    </p>
+
+       Preserva hoje para viver melhor Amanhã.
+
+       <br>
+
+       O futuro depende das escolhas que fazemos agora&#128526;.
+       
+</body>
+</html> 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Lista - Exercício 5</title>
+</head>
+<body>
+  
+    <h1>Receita do Bolo</h1>
+    <h2>Bolo de Milho</h2>
+  
+    <h3> Imagem da Receita</h3>
+    <img src="data:image/jpeg;base64,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" alt="Bolo de cenoura com cobertura de chocolate" width="400">
+
+
+      <ol><li><h3>Ingredientes</h3></li></ol>
+    <ul>
+       <li>1 lata de milho (sem o líquido) </li>
+       <li>1 lata de açúcar (medida da lata de milho) </li>
+       <li>1/2 lata de óleo de soja </li>
+       <li>1 colher (sopa) de fermento em pó farinha de trigo para untar</li>
+       <li>1 lata de leite, medida da lata de milho</li>
+       <li>1 lata de flocão de milho </li>
+       <li> 3 ovos inteiros 
+       <li>1 lata de flocão de milho margarina para untar &#128581;&#8205;&#9794;&#65039;
+      </ul> 
+    
+      
+    <ol><li><h3>Modo de preparo!</h3></li></ol>
+
+      <li>Escorra o milho e use a própria lata para as medidas </ul>
+      <li>Unte e enfarinhe uma forma de bolo com fur</li>
+      <li>Preaqueça o forno</li>
+      <li>Coloque no liquidificador o milho (já escorrido), o leite, açúcar, flocão de milho, óleo, ovos e bata bem até que o milho fique bem moído</li>
+      <li>Se quiser, pode acrescentar duas colheres de sopa de coco ralado</li>
+      <li>Acrescente o fermento em pó e pulse o liquidificador 3 vezes</li>
+      <li>Despeje essa massa na forma e leve ao forno médio</li>
+      <li>Deixe assar por, aproximadamente, 40 minutos</li>
+      <li>Faça o teste do palito e observe um tom dourado médio, para saber que o bolo está pronto</li>
+      <li>Espere esfriar totalmente para desenformar
+
+      </ul>
+
+    
+  
+    <p> Receita testada!</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 6</title>
+</head>
+<body>
+    <h4>Paulo</h4>
+    <h1> Bandeiras Nacionais</h1>
+
+  <h2> América do Sul</h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Bandeira_do_Brasil">Bandeira do Brasil/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Bandeira_do_Brasil"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png></a>
+    
+  <h3><a href="https://pt.wikipedia.org/wiki/Argentina">Bandeira da Argentina/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Argentina"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png></a>
+
+  
+  <h3><a href="https://pt.wikipedia.org/wiki/Chile">Bandeira do Chile/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Chile"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/250px-Flag_of_Chile.svg.png></a>
+    <br>
+
+
+    <h2> Europa </h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Alemanha">Bandeira da Alemanha/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Alemanha"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png></a> <br>
+
+  <h3><a href="https://pt.wikipedia.org/wiki/Fran%C3%A7a">Bandeira da França /<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Fran%C3%A7a"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png></a>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia">Bandeira da Australia /<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/250px-Flag_of_Australia_%28converted%29.svg.png></a>
+
+
+s
+
+    <h2> Asia</h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/China">Bandeira da China/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/China"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/250px-Flag_of_the_People%27s_Republic_of_China.svg.png></a> <br>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Indon%C3%A9sia">Bandeira da Indonesia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Indon%C3%A9sia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/250px-Flag_of_Indonesia.svg.png></a> <br>
+
+    <h3><a href="https://pt.wikipedia.org/wiki/Tail%C3%A2ndia">Bandeira da Tailandia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Tail%C3%A2ndia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/250px-Flag_of_Thailand.svg.png></a> <br>
+
+
+
+
+     <h2> Africa</h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Egito">Bandeira do Egito/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Egito"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/250px-Flag_of_Egypt.svg.png></a> <br>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Arg%C3%A9lia">Bandeira da Libia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Arg%C3%A9lia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png></a> <br>
+
+
+       <h3><a href="https://pt.wikipedia.org/wiki/Marrocos">Bandeira do MArrocos/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Marrocos"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png></a> <br>
+
+
+
+
+     <h2> Oceania </h2>
+  <h3><a href="https://pt.wikipedia.org/wiki/Kiribati">Bandeira do Kiribati/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Kiribati"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/250px-Flag_of_Kiribati.svg.png></a> <br>
+
+
+     <h3><a href="https://pt.wikipedia.org/wiki/Bandeira_de_Nauru">Bandeira da Nauru/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Bandeira_de_Nauru"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/330px-Flag_of_Nauru.svg.png></a> <br>
+
+
+       <h3><a href="hhttps://pt.wikipedia.org/wiki/Bandeira_da_Nova_Zel%C3%A2ndia">Bandeira da Nova Zelândia/<a></h3>
+    <a href="https://pt.wikipedia.org/wiki/Bandeira_da_Nova_Zel%C3%A2ndia"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/330px-Flag_of_New_Zealand.svg.png></a> <br>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista - Exercício 7</title>
+</head>
+<body>
+   <i><h2><mark>Caso da Juliana Soares </mark></h2></i>
+   <p> &#128532;Juliana Soares, de 35 anos, a mulher espancada com mais de 60 socos pelo namorado no elevador <br>
+      de um condomínio em Natal mostrou, pela primeira vez, o rosto dela após a cirurgia a qual foi submetida para reconstrução facial. <br>
+       A imagem foi postada no perfil dela em uma rede social, mostrando o sétimo dia de recuperação após o procedimento <br>
+      Ela teve alta hospitalar na segunda-feira (4). <br>
+      Juliana passou por uma cirurgia para restauração de ossos do rosto, na sexta-feira passada (1º) <br>
+      que durou mais de 7 horas e foi "um sucesso", segundo o Hospital Universitário Onofre Lopes (HUOL) <br>
+      Ela havia sofrido múltiplas fraturas no rosto e no maxilar.&#128561; <br>
+      No perfil, a vítima do crime também compartilhou que realizou, nesta semana, sessão de laserterapia no rosto para reduzir o edema e modular a inflamação.<br>
+       A mulher foi espancada no elevador no dia 26 de julho. O agressor, o ex-jogador de basquete Igor Eduardo Pereira Cabral, <br>
+      foi preso em flagrante, e teve a detenção transformada em prisão preventiva, após passar por audiência de custódia. <br>
+      <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3ijNos6l_T0SRZrQ3ZmOZ_M81Jwp_vBWtHc307_hKYJG_aZJsfyBq24M4FFnthlpGIw&usqp=CAU>
+  
+</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <i><h2> Quinze segundos são o bastante para mudar tudo completamente <q> É assim que acaba </q></h2></i>
+    <h3> 
+       <q> Quinze segundos.  Esse é o tempo necessário para mudar completamente tudo o que você conhece sobre uma pessoa </q> </li> 
+
+</body>
+</html>
+<background-color: black  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>luz perfeita bonita</title>
+    <style>
+        body { 
+            color: white;
+            background-color: black;   
+        }
+        li::marker{
+            color: chartreuse;
+
+
+        }
+        
+    </style>
+</head>
+<body>
+    <i><h2> Tema.CSS </h2></i>
+   <h2 style="color: aqua;"><b> 1. CSS Externo: </b></p>
+    <h3>As regras CSS são escritas em um arquivo com extensão .css (ex: estilos.css) e vinculadas ao documento HTML através da tag <link> dentro da seção.<head></h3>
+        <ul>
+            </p><li> Umas das vantagens são a Reutilização de código: O mesmo arquivo CSS pode ser usado em várias páginas HTML, facilitando a manutenção e atualização do estilo. </li> <p>
+            </p><li> Separação de conteúdo e apresentação: Mantém o código HTML mais limpo e organizado, separando a estrutura do conteúdo da sua aparência. </li> <p>
+            </p><li> Manutenção facilitada: Alterações no CSS são refletidas em todas as páginas que utilizam o arquivo, agilizando o processo. </li>
+        </ul> <br>
+
+     <h2 style="color:blueviolet;"><b> 2. CSS Interno </b></p>
+        <h3> As regras CSS são escritas diretamente dentro da tag style na seção <head> do documento HTML.</h3>
+            <ul>
+
+               <li> Vantagens:<br>
+                <p>Prático para estilização de uma única página </li><br>
+              <p><li> Útil quando você precisa aplicar estilos específicos para uma página isolada, sem afetar outras.</li></p><br>
+              <p><li>Desvantagens: 
+                <p> Não reutilizável: O CSS interno não pode ser usado em outras páginas HTML.</li></p>
+
+              
+
+            </ul> 
+
+     
+        
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão do Tempo</title>
+    <style>
+body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background: #f4f4f9;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    form {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    input, button {
+      padding: 8px;
+      margin: 5px 0;
+      width: 99%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      background: #4CAF50;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #45a049;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      background: #fff;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+    <h1>Previsão do Tempo</h1>
+    <form id="formClima">
+        <label for="temperatura">Temperatura :</label>
+        <input type="number" id="temperatura" required>
+        
+        <label for="probabilidadeChuva">Probabilidade de Chuva:</label>
+        <input type="number" id="probabilidadeChuva" required>
+        
+        <button type="submit">Ver Previsão</button>
+
+    </form>
+
+     <h2>Imagem do Tempo</h2>
+    <img id="imagem" src="" alt="Previsão do Tempo">
+
+
+
+
+    <script>
+        const form = document.getElementById("formClima");
+        const imagem = document.getElementById("imagem");
+
+        form.addEventListener("submit", function(event) {
+            event.preventDefault(); // impede o reload da página
+            const temperatura = parseFloat(document.getElementById("temperatura").value);
+            const probabilidadeChuva = parseFloat(document.getElementById("probabilidadeChuva").value);
+
+            if (temperatura > 20 && probabilidadeChuva < 30) {                                       
+            } else if (temperatura > 20 && probabilidadeChuva >= 30) {
+                imagem.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Thin_Cirrus_Clouds.jpg/250px-Thin_Cirrus_Clouds.jpg"                                               
+            } else if (temperatura <= 20 && temperatura > 0 && probabilidadeChuva >= 70) {
+                imagem.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Praia_de_Joanes_Ilha_do_Marajo.jpg/250px-Praia_de_Joanes_Ilha_do_Marajo.jpg"
+     
+            }
+        });
+    </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastra Pessoa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background: #e7e5e59f;
+        }
+        
+        h1 {
+            color: #080808;
+        }
+        
+        form {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        input, button {
+            padding: 8px;
+            margin: 5px 0;
+            width: 99%;
+            border: 1px solid #8f5a5a;
+            border-radius: 5px;
+        }
+        
+        button {
+            background: #132068;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background: #0f1450;
+        }
+        
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        li {
+            background: #f0ebeb;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1><b>Cadastra Pessoa</b></h1>
+    <form id="formPessoa">
+        <label for="nome"><i class=""><b>Coloque seu Nome</b></i>:</label>
+        <input type="text" id="nome" required>
+        
+    
+        <button type="submit">Cadastrar</button>
+    </form>
+    <h2>Lista de Pessoas</h2>
+    <ul id="listaPessoas"></ul>
+
+    <script>
+        const form = document.getElementById("formPessoa");
+        const lista = document.getElementById("listaPessoas");
+
+        form.addEventListener("submit", function(event) {
+            event.preventDefault(); // impede o reload da página
+            const nome = document.getElementById("nome").value;
+            
+            // cria o item da lista
+            const li = document.createElement("li");
+            li.textContent =`${nome}`;
+            
+
+            // adiciona na lista
+            lista.appendChild(li);
+
+            // limpa os campos
+            form.reset();
+        });
+    </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcular Média</title>
+</head>
+<body>
+    
+   <h2>Calcular média</h2>
+   <form id="formMedia">
+    <label for="valor1">valor 1:</label>
+    <input type="number" id="valor1" required> <br><br>
+
+    <label for="valor2">valor 2:</label>
+    <input type="number" id="valor2" required> <br><br>
+
+    <label for="valor3">valor 3:</label>
+    <input type="number" id="valor3" required> <br><br>
+
+
+    <label for="valor4">valor 4:</label>
+    <input type="number" id="valor4" required> <br><br>
+
+
+    <button type="submit">Calcalar Média</button>
+   </form>
+   
+
+  <div>
+    <h2>Resultado</h2>
+    <p id="Resultado"></p>
+  </div>
+
+    <script>
+        const form = document.getElementById('formMedia');
+
+        form.addEventListener('submit' , function(event){
+            event.preventDefault();
+            const resultado = document.getElementById('Resultado');
+        
+
+      const valor1 = parseFloat(document.getElementById('valor1').value);
+      const valor2 = parseFloat(document.getElementById('valor2').value);
+      const valor3 = parseFloat(document.getElementById('valor3').value);
+      const valor4 = parseFloat(document.getElementById('valor4').value);
+ 
+     resultado.innerText = "O Resultado = " + (valor1+valor2+valor3+valor4) / 4;
+
+
+    });
+
+
+    </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificar Voto</title>
+</head>
+<body>
+    <form id="formVoto" style="background-color: blue;">
+        <label for="idade">Digite sua idade:</label>
+        <input type="text" id="idade">
+        <button type="submit">Verificar</button>
+    </form>
+    
+
+
+
+  <div style="background-color: red;">
+    <h2>Resultado</h2>
+    <p id="idades"></p>
+  </div>
+
+    <script>
+         const form = document.getElementById('formVoto');
+         form.addEventListener('submit' , function(event){
+            event.preventDefault();
+            const idade = document.getElementById('idade').value;
+            const resultado = document.getElementById('idades');
+
+            alert(idade);
+
+
+    if (idade >= 18|| idade <=70) {
+        resultado.innerText = "Votação Não Obrigatória.";
+    } else if ((idade >= 16 && idade == 17) || idade > 70){
+        resultado.innerText = "Votação Obrigatoria.";
+    } else{
+        resultado.innerText = "Dipensado da Votação.";
+
+    }
+
+ 
+
+ }
+)
+
+
+
+    
+
+
+     </script>
+
+  
+</body>
+</html>
+
+    <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastra Pessoa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background: #e7e5e59f;
+        }
+        
+        h1 {
+            color: #080808;
+        }
+        
+        form {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        input, button {
+            padding: 8px;
+            margin: 5px 0;
+            width: 99%;
+            border: 1px solid #8f5a5a;
+            border-radius: 5px;
+        }
+        
+        button {
+            background: #132068;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background: #0f1450;
+        }
+        
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        li {
+            background: #f0ebeb;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+
+    <h1><b>Cadastra Pessoa</b></h1>
+    <form id="formPessoa">
+        <label for="nome"><i class=""><b>Coloque seu Nome</b></i>:</label>
+        <input type="text" id="nome" required>
+        
+    
+        <button type="submit">Cadastrar</button>
+    </form>
+    <h2>Lista de Pessoas</h2>
+    <ul id="listaPessoas"></ul>
+
+    <script>
+        const form = document.getElementById("formPessoa");
+        const lista = document.getElementById("listaPessoas");
+
+        form.addEventListener("submit", function(event) {
+            event.preventDefault(); // impede o reload da página
+            const nome = document.getElementById("nome").value;
+            
+            // cria o item da lista
+            const li = document.createElement("li");
+            li.textContent =`${nome}`;
+            
+
+            // adiciona na lista
+            lista.appendChild(li);
+
+            // limpa os campos
+            form.reset();
+        });
+    </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>index.html</title>
+</head>
+<body>
+
+
+   <a href = "pagina.html"><p> clicle para proxima pagina</p></a>
+   
+    <style>
+
+     h1{
+       color:  rgb(15, 20, 16);
+     }
+
+    h2{
+        color: rgb(15, 20, 16) ;
+     }
+     
+     h3{
+        color: rgb(15, 8, 8);
+
+     }
+     body{
+      
+        color: rgb(228, 220, 220);
+     }
+     li{
+        color: rgb(34, 24, 24);
+     }
+     body {
+
+    background-color: #f2f7f4;   
+    font-family: Arial, sans-serif; 
+    color: #000000;   
+    margin: 20px;  
+}
+h1{
+       color:  rgb(15, 20, 16); 
+     }
+
+h2 {
+    color: rgb(14, 13, 10);  
+}
+
+h3 {
+    color: rgb(240, 184, 0);    
+}
+li {
+    color: rgb(0, 0, 0);      
+    margin-bottom: 5px;
+}
+body{ 
+    color:rgb(0, 0, 0)s
+}
+
+hr {
+    border: 1px solid rgb(34, 33, 31);  
+    margin: 10px 0;
+}   
+</style>
+    
+</head>
+<body> 
+    <img src="logoCedup.jpeg" alt="79">
+    <h1><i>Curso Técnico em Desenvolvimento de Sistemas</i></h1>
+    <hr>
+    <br>
+     <img src="imgPRONATEC.jpeg" alt="12" >
+    <h2><i>Informações do curso</i></h2>
+     <li><b> O curso técnico em Desenvolvimento de Sistemas</b> capacita profissionais para criar, implementar e manter sistemas de software. <br>
+        Integram sistemas, realizam testes e elaboram documentação técnica. <br>
+        Podem trabalhar em empresas de tecnologia, setor público, consultorias de TI e indústrias. <br>
+        <b>Habilidades Desenvolvidas Dentro do Curso</b>: 
+        Programação em linguagens como Java, Python, C++ <br>
+        Desenvolvimento web com HTML, CSS e JavaScript <br>
+        Banco de dados e gerenciamento de dados <br>
+        Análise e projeto de sistemas <br>
+        Testes e depuração de software. </li> <br>
+    <h2><i>Professores Do Curso</i></h2>
+    <ol>
+    <li>Luis</li>
+    <li>Lucas</li>
+    <li>Raiane</li>
+    <li>Jorge</li>
+    <li>Roseli</li>
+    <li>Adriely</li></ol>
+    <br>
+    <br>
+
+   
+     <h2><i>Disciplinas Que tem no Curso</i></h2>
+     <ul>
+     <li> Densenvolvimento  Web I</li> <li>Modelagens de Sistemas</li> <li>Programação Orientação a Objetos</li> 
+     <li>Relações Humanas </li>  <li>Banco de Dados</li> <li>Linguagem SQL</li> 
+     <li>Empeendedorimos, Criatividade E Inovação <li>Inglês Aplicado</li> 
+     <li>Sistemas de Informação</li> <li>Introdução A Programação</li> <li>Infraetrutura Computacional</li> 
+     <li>Metodologias Humanas</li> <li>Computação em Nuvem E Web Services</li> <li>Qualidade e testes de Software</li> 
+     <li>Prototipagem em ui/ux Design</li> <li>Desenvolvimento Web II</li> 
+     </li></ul>
+
+
+    <br>
+    <h2><i>Alunos Do Curso Técnico em Desenvolvimento De Sistemas</i></h2>
+    <ol>
+    <li>Adryan</li> <li>Ana</li> <li>Arthur</li> <li>Gabriela</li>
+    <li>João </li> <li>Thaila</li> <li>Marcos</li> <li>Marco </li>
+    <li>Gustavo </li> <li>Paulo </li> <li>Luz </li> <li>Nicoly </li>
+    <li>Maria </li> <li>Sarah </li> <li>Emanoely</li> <li>Matheus </li>
+    <li>Isabeli </li> <li>Matheus </li></ol>
+
+    <footer>
+        <p style="text-align: center;">&copy; 2025 CEDUP - técnico em Desenvolvimento de Sistemas </p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><i>Foto do Aluno</i></h2>
+    <img src="imgAlunos.jpeg" alt="30">
+    
+    
+</body>
+</html>
+body {
+    background-color: #000000;   
+    font-family: Arial, sans-serif; 
+    color: #333;   
+    margin: 20px;  
+}
+
+h2 {
+    color: rgb(255, 208, 0); 
+}
+
+h3 {
+    color: rgb(240, 184, 0);    
+}
+
+li {
+    color: rgb(255, 145, 0);     
+    margin-bottom: 5px; 
+}
+body { 
+    color:rgb(240, 184, 0)
+}
+
+hr {
+    border: 1px solid rgb(253, 143, 0);  
+    margin: 10px 0;
+}
+
+footer{
+    text-align:center;
+    padding:50px;
+    color:white; 
+}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Pesquisa em TI</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { text-align: center; }
+    input { width: 100%; padding: 8px; margin-bottom: 15px; }
+    .topico { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <h1>Pesquisa: TI e Computação em Nuvem</h1>
+  <input type="text" id="pesquisa">
+  <label for="pesquisa">Digite um tema:</label>
+   <button type="submit">Pisquisa</button>
+
+  <div id="conteudos">
+    <div class="topico" data-palavra="nuvem computação cloud">
+      <h2>Computação na Nuvem</h2>
+      <p>É a entrega de serviços de computação (servidores, armazenamento, redes e software) pela internet.</p>
+      <p><b>Empresas:</b> AWS, Microsoft Azure, Google Cloud.</p>
+      <p><b>Exemplo:</b> Armazenar arquivos no Google Drive ou Dropbox.</p>
+    </div>
+
+    <div class="topico" data-palavra="infra infraestrutura ti datacenter">
+      <h2>Infraestrutura de TI</h2>
+      <p>Conjunto de hardware, software, redes e processos que suportam os serviços de tecnologia.</p>
+      <p><b>Empresas:</b> Cisco, Dell, HP.</p>
+      <p><b>Exemplo:</b> Servidores e redes usados em empresas e escolas.</p>
+    </div>
+
+    <div class="topico" data-palavra="saas software serviço aplicativo online">
+      <h2>SaaS (Software como Serviço)</h2>
+      <p>Softwares acessados pela internet sem precisar instalar no computador.</p>
+      <p><b>Empresas:</b> Google (Gmail, Docs), Microsoft (Office 365).</p>
+      <p><b>Exemplo:</b> Usar o Google Docs para editar textos online.</p>
+    </div>
+
+    <div class="topico" data-palavra="paas plataforma serviço desenvolvedor">
+      <h2>PaaS (Plataforma como Serviço)</h2>
+      <p>Ambiente pronto para desenvolvedores criarem e hospedarem aplicações.</p>
+      <p><b>Empresas:</b> Heroku, Google App Engine, AWS Elastic Beanstalk.</p>
+      <p><b>Exemplo:</b> Hospedar um site sem precisar configurar servidor.</p>
+    </div>
+
+    <div class="topico" data-palavra="iaas infraestrutura serviço servidor virtual">
+      <h2>IaaS (Infraestrutura como Serviço)</h2>
+      <p>Infraestrutura de servidores e redes oferecida pela internet.</p>
+      <p><b>Empresas:</b> AWS EC2, Microsoft Azure VMs.</p>
+      <p><b>Exemplo:</b> Criar máquinas virtuais para rodar sistemas de uma empresa.</p>
+    </div>
+
+    <div class="topico" data-palavra="virtualização maquina virtual vmware">
+      <h2>Virtualização</h2>
+      <p>Tecnologia que permite criar várias “máquinas virtuais” dentro de um único computador físico.</p>
+      <p><b>Empresas:</b> VMware, VirtualBox, Hyper-V.</p>
+      <p><b>Exemplo:</b> Usar uma VM para rodar Linux dentro do Windows.</p>
+    </div>
+  </div>
+
+  <script>
+    const pesquisa = document.getElementById('pesquisa');
+    const topicos = document.querySelectorAll('.topico');
+
+    pesquisa.addEventListener('keyup', function() {
+      let texto = pesquisa.value.toLowerCase();
+      topicos.forEach(t => {
+        let palavras = t.getAttribute('data-palavra');
+        if (palavras.includes(texto)) {
+          t.classList.remove('hidden');
+        } else {
+          t.classList.add('hidden');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Pesquisa em TI</title>
+</head>
+<body>
+  <h1>Pesquisa sobre Tecnologia da Informação</h1>
+
+  <p>Digite aqui o que deseja pesquisar:</p>
+  <input type="text" placeholder="Exemplo: Nuvem, SaaS, IaaS...">
+
+  <h2>Computação na Nuvem</h2>
+  <p>É o uso da internet para acessar serviços de computação como servidores, armazenamento e redes.</p>
+  <p><b>Empresas:</b> Amazon AWS, Microsoft Azure, Google Cloud.</p>
+  <p><b>Exemplo:</b> Armazenar arquivos no Google Drive.</p>
+
+  <h2>Infraestrutura de TI</h2>
+  <p>São os equipamentos e softwares que mantêm os sistemas funcionando, como servidores, redes e bancos de dados.</p>
+  <p><b>Empresas:</b> Cisco, Dell, HP.</p>
+  <p><b>Exemplo:</b> Redes e servidores usados em empresas.</p>
+
+  <h2>SaaS (Software como Serviço)</h2>
+  <p>São programas acessados pela internet sem precisar instalar no computador.</p>
+  <p><b>Empresas:</b> Google Docs, Office 365.</p>
+  <p><b>Exemplo:</b> Usar o Gmail no navegador.</p>
+
+  <h2>PaaS (Plataforma como Serviço)</h2>
+  <p>Oferece um ambiente pronto para programadores criarem e publicarem sistemas.</p>
+  <p><b>Empresas:</b> Heroku, Google App Engine.</p>
+  <p><b>Exemplo:</b> Hospedar um site sem precisar montar servidor.</p>
+
+  <h2>IaaS (Infraestrutura como Serviço)</h2>
+  <p>Disponibiliza servidores e redes pela internet, de forma virtual.</p>
+  <p><b>Empresas:</b> AWS EC2, Azure VMs.</p>
+  <p><b>Exemplo:</b> Criar uma máquina virtual para rodar programas da empresa.</p>
+
+  <h2>Virtualização</h2>
+  <p>Permite dividir um computador físico em várias “máquinas virtuais”.</p>
+  <p><b>Empresas:</b> VMware, VirtualBox.</p>
+  <p><b>Exemplo:</b> Rodar Linux dentro do Windows.</p>
+
+</body>
+</html>
+    
+
+ 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Pesquisa: Em Computação e Nuvem</h1>
+    <input type="text" id="pesquisa">
+    <label for="pesquisa">Digite um tema:</label>
+
+    <div class="topico" text="nuvem em computação ">
+      <h2>Computação na Nuvem</h2>
+      <p>É a entrega de serviços de computação (servidores, armazenamento, redes e software) pela internet.</p>
+      <p><b>Empresas:</b> AWS, Microsoft Azure, Google Cloud.</p>
+      <p><b>Exemplo:</b> Armazenar arquivos no Google Drive ou Dropbox.</p>
+    </div>
+
+    <div class="topico" data-palavra="infra infraestrutura ti datacenter">
+      <h2>Infraestrutura de TI</h2>
+      <p>Conjunto de hardware, software, redes e processos que suportam os serviços de tecnologia.</p>
+      <p><b>Empresas:</b> Cisco, Dell, HP.</p>
+      <p><b>Exemplo:</b> Servidores e redes usados em empresas e escolas.</p>
+    </div>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Pesquisa em TI</title>
+</head>
+<body>
+  <h1>Pesquisa </h1>
+
+  <p>Digite aqui o que deseja pesquisar:</p>
+   <h1>Pesquisa: Em Computação e Nuvem</h1>
+    <input type="text" id="pesquisa">
+    <label for="pesquisa">Digite um tema
+    </label>
+
+
+    
+  <div >
+    <p id="pesquisa"></p>
+  </div>
+
+  <h2>Computação na Nuvem</h2>
+  <p>É o uso da internet para acessar serviços de computação como servidores, armazenamento e redes.</p>
+  <p><b>Empresas:</b> Amazon AWS, Microsoft Azure, Google Cloud.</p>
+  <p><b>Exemplo:</b> Armazenar arquivos no Google Drive.</p>
+
+  <h2>Infraestrutura de TI</h2>
+  <p>São os equipamentos e softwares que mantêm os sistemas funcionando, como servidores, redes e bancos de dados.</p>
+  <p><b>Empresas:</b> Cisco, Dell, HP.</p>
+  <p><b>Exemplo:</b> Redes e servidores usados em empresas.</p>
+
+  <h2>SaaS (Software como Serviço)</h2>
+  <p>São programas acessados pela internet sem precisar instalar no computador.</p>
+  <p><b>Empresas:</b> Google Docs, Office 365.</p>
+  <p><b>Exemplo:</b> Usar o Gmail no navegador.</p>
+
+  <h2>PaaS (Plataforma como Serviço)</h2>
+  <p>Oferece um ambiente pronto para programadores criarem e publicarem sistemas.</p>
+  <p><b>Empresas:</b> Heroku, Google App Engine.</p>
+  <p><b>Exemplo:</b> Hospedar um site sem precisar montar servidor.</p>
+
+  <h2>IaaS (Infraestrutura como Serviço)</h2>
+  <p>Disponibiliza servidores e redes pela internet, de forma virtual.</p>
+  <p><b>Empresas:</b> AWS EC2, Azure VMs.</p>
+  <p><b>Exemplo:</b> Criar uma máquina virtual para rodar programas da empresa.</p>
+
+  <h2>Virtualização</h2>
+  <p>Permite dividir um computador físico em várias “máquinas virtuais”.</p>
+  <p><b>Empresas:</b> VMware, VirtualBox.</p>
+  <p><b>Exemplo:</b> Rodar Linux dentro do Windows.</p>
+<script>
+    const pesquisa = document.getElementById('pesquisa');
+    const topicos = document.querySelectorAll('.topico');
+
+    pesquisa.addEventListener('keyup', function() {
+      let texto = pesquisa.value.toLowerCase();
+      topicos.forEach(t => {
+        let palavras = t.getAttribute('data-palavra');
+        if (palavras.includes(texto)) {
+          t.classList.remove('hidden');
+        } else {
+          t.classList.add('hidden');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadastro de Produtos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background: #f4f4f9;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    form {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    input, button {
+      padding: 8px;
+      margin: 5px 0;
+      width: 99%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      background: #4CAF50;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #45a049;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      background: #fff;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Cadastro de Produtos</h1>
+
+  <form id="formProduto">
+    <label for="nome">Nome do Produto:</label>zz
+    <input type="text" id="nome" required>
+
+    <label for="preco">Preço:</label>
+    <input type="number" id="preco" step="0.01" required>
+
+    <button type="submit">Cadastrar</button>
+  </form>
+
+  <h2>Lista de Produtos</h2>
+  <ul id="listaProdutos"></ul>
+
+  <script>
+    const form = document.getElementById("formProduto");
+    const lista = document.getElementById("listaProdutos");
+
+    form.addEventListener("submit", function(event) {
+      event.preventDefault(); // impede o reload da página
+
+      const nome = document.getElementById("nome").value;
+      const preco = document.getElementById("preco").value;
+
+      // cria o item da lista
+      const li = document.createElement("li");
+      li.textContent = `${nome} - R$ ${parseFloat(preco).toFixed(2)}`;
+
+      // adiciona na lista
+      lista.appendChild(li);
+
+      // limpa os campos
+      form.reset();
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastra Contato</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background: #f4f4f9;
+        }
+        
+        h1 {
+            color: #333;
+        }
+        
+        form {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        input, button {
+            padding: 8px;
+            margin: 5px 0;
+            width: 99%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        
+        button {
+            background: #4CAF50;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background: #45a049;
+        }
+        
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        li {
+            background: #fff;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Cadastra Contato</h1>
+    <form id="formContato">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" required>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+        
+        <label for="telefone">Telefone:</label>
+        <input type="tel" id="telefone" required>
+        
+        <button type="submit">Cadastrar</button>
+    </form>
+    <h2>Lista de Contatos</h2>
+    <ul id="listaContatos"></ul>
+
+    <script>
+        const form = document.getElementById("formContato");
+        const lista = document.getElementById("listaContatos");
+
+        form.addEventListener("submit", function(event) {
+            event.preventDefault(); // impede o reload da página
+            const nome = document.getElementById("nome").value;
+            const email = document.getElementById("email").value;
+            const telefone = document.getElementById("telefone").value;
+
+            // cria o item da lista
+            const li = document.createElement("li");
+            li.innerHTML = `
+                <strong>Nome:</strong> ${nome}<br>
+                <strong>Email:</strong> ${email}<br>
+                <strong>Telefone:</strong> ${telefone}
+            `;
+
+            // adiciona na lista
+            lista.appendChild(li);
+
+            // limpa os campos
+            form.reset();
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ChatGPt</title>
+</head>
+<body>
+  <h1><i>Pesquisa</i></h1>
+
+
+  <input type="text" id="campo" placeholder="Digite: Nuvem, SaaS, PaaS, IaaS, Infra ou Virtualização">
+  <button onclick="pesquisar()">Pesquisar</button>
+
+  <hr>
+
+  <div id="resultado"></div>
+
+  <script>
+    function pesquisar() {
+      let texto = document.getElementById("campo").value
+      let resultado = document.getElementById("resultado");
+
+      if (texto === "Nuvem") {
+        resultado.innerHTML = "<h2>Computação na Nuvem</h2><p>Uso da internet para acessar serviços como servidores e armazenamento.</p><p><b>Exemplo:</b> Google Drive, AWS, Azure  <p><b>Empresas:</b> Amazon AWS, Microsoft Azure, Google Cloud./p>"
+ 
+      }
+      else if (texto === "infra") {
+        resultado.innerHTML = "<h2>Infraestrutura de TI</h2><p>Conjunto de servidores, redes e softwares que mantêm sistemas funcionando.</p><p><b>Exemplo:</b> Redes e servidores em empresas.<p><b>Empresas:</b> Cisco, Dell, HP</p>";
+      }
+      else if (texto === " saas?") {
+        resultado.innerHTML = "<h2>SaaS</h2><p>Softwares usados pela internet sem instalar no computador.</p><p><b>Exemplo:</b> Gmail, Office 365.<p><b>Empresas:</b> Google Docs, Office 365</p>";
+      }
+      else if (texto === "paas") {
+        resultado.innerHTML = "<h2>PaaS</h2><p>Plataforma pronta para programadores criarem e publicarem sistemas.<p><b>Exemplo:</b> Hospedar um site sem precisar montar servidor.<p><b>Empresas:</b> Heroku, Google App Engine.</p>";
+      }
+      else if (texto === "iaas") {
+        resultado.innerHTML = "<h2>IaaS</h2><p>Servidores e redes oferecidos pela internet.</p><p><b>Exemplo:</b> AWS EC2, Azure VMs.<p><b>Empresas:</b> AWS EC2, Azure VMs.</p>";
+      }
+      else if (texto === "virtualização") {
+        resultado.innerHTML = "<h2>Virtualização</h2><p>Criar várias máquinas virtuais dentro de um computador físico.</p><p><b>Exemplo:</b> VMware, VirtualBox.<p><b>Empresas:</b> VMware, VirtualBox.</p>";
+      }
+      else {
+        resultado.innerHTML = "<p style='color:red'>Tema não encontrado. Digite: Nuvem, Infra, SaaS, PaaS, IaaS ou Virtualização.</p>";
+      }
+    }
+  </script>
+</body>
+</html>
