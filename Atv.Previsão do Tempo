@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão do Tempo</title>
+    <style>
+body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background: #f4f4f9;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    form {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    input, button {
+      padding: 8px;
+      margin: 5px 0;
+      width: 99%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      background: #4CAF50;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #45a049;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      background: #fff;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+    <h1>Previsão do Tempo</h1>
+    <form id="formClima">
+        <label for="temperatura">Temperatura :</label>
+        <input type="number" id="temperatura" required>
+        
+        <label for="probabilidadeChuva">Probabilidade de Chuva:</label>
+        <input type="number" id="probabilidadeChuva" required>
+        
+        <button type="submit">Ver Previsão</button>
+
+    </form>
+
+     <h2>Imagem do Tempo</h2>
+    <img id="imagem" src="" alt="Previsão do Tempo">
+
+
+
+
+    <script>
+        const form = document.getElementById("formClima");
+        const imagem = document.getElementById("imagem");
+
+        form.addEventListener("submit", function(event) {
+            event.preventDefault(); // impede o reload da página
+            const temperatura = parseFloat(document.getElementById("temperatura").value);
+            const probabilidadeChuva = parseFloat(document.getElementById("probabilidadeChuva").value);
+
+            if (temperatura > 20 && probabilidadeChuva < 30) {                                       
+            } else if (temperatura > 20 && probabilidadeChuva >= 30) {
+                imagem.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Thin_Cirrus_Clouds.jpg/250px-Thin_Cirrus_Clouds.jpg"                                               
+            } else if (temperatura <= 20 && temperatura > 0 && probabilidadeChuva >= 70) {
+                imagem.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Praia_de_Joanes_Ilha_do_Marajo.jpg/250px-Praia_de_Joanes_Ilha_do_Marajo.jpg"
+     
+            }
+        });
+    </script>
+</body>
+</html>
